@@ -1,0 +1,4 @@
+apiVersion = "agentic-engineer/v1"
+name = "sm-p4-0810x"
+createdAt = "2026-10-05T02:40:44Z"
+idea = "Smoke probe: a tiny note-keeping tool where users add and list short notes"
