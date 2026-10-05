@@ -6,7 +6,7 @@ People jotting down quick, short thoughts — a reminder, a snippet, a to-do —
 
 ## Solution
 
-A tiny note-keeping tool where a signed-in user can quickly add a short note and list the notes they have added, with nothing else to learn or configure.
+A tiny note-keeping tool where a signed-in user can quickly add a short note and list the notes they have added, with nothing else to learn or configure. This is a post-fix smoke probe, intended to verify the pipeline is working after a fix rather than to grow into a full product.
 
 ## Actors
 
